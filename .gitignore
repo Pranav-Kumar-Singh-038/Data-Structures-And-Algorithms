@@ -8,6 +8,7 @@
 # Ignore object files
 *.o
 *.obj
+*.class
 
 # Ignore build directories
 /build/
